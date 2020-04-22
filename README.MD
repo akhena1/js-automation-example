@@ -1,4 +1,4 @@
-# JS-AUTOMATIOM-EXAMPLE
+# JS-AUTOMATION-EXAMPLE
 
 ## Script de automatização simples utilizando javascript;
 
